@@ -1,0 +1,1 @@
+Please note that you might need to manually remove the old version of the nPZero Configurator using the Add/Remove Programs feature in Windows.
